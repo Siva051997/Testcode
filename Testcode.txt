@@ -2,3 +2,6 @@
 yum install python -y
 systemctl start python
 systemctl enable python
+yum install httpd -y
+systemctl start httpd
+systemctl enable httpd
