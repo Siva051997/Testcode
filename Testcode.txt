@@ -1,0 +1,4 @@
+#This is test code for jenkins intergration
+yum install python -y
+systemctl start python
+systemctl enable python
